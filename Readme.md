@@ -34,6 +34,12 @@ Replace this with your dataset URL:
 
 ---
 
+## Streamlit link
+
+- [https://supervised-learning-project-4.streamlit.app/]
+
+---
+
 # ⚙️ Project Workflow
 
 ```text
